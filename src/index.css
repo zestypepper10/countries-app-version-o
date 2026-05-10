@@ -1,0 +1,33 @@
+/* GLOBAL View */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* BODY Overall*/
+
+body {
+  font-family: "Nunito Sans", sans-serif;
+
+  background-color: #fafafa;
+
+  color: #111517;
+
+  min-height: 100vh;
+}
+
+/* IMAGES View*/
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+/* LINKS View*/
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
